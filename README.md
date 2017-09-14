@@ -14,7 +14,7 @@ Install Carthage with [Homebrew](https://brew.sh):
 
 Integrate YAJL into your Xcode project by adding this to your `Cartfile`:
 
-    github "d108/yajl-dynamic" ~> 1.0
+    github "adblockplus/yajl-dynamic" ~> 1.0
 
 Run `carthage update` to build the framework. Drag the built framework into
 your Xcode project.
