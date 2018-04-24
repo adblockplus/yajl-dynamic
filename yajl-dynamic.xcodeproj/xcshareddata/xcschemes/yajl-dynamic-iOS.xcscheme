@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "65F8BB271F60F757004B9ED4"
-               BuildableName = "yajl.framework"
-               BlueprintName = "yajl"
+               BuildableName = "yajl_dynamic.framework"
+               BlueprintName = "yajl-dynamic"
                ReferencedContainer = "container:yajl-dynamic.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65F8BB271F60F757004B9ED4"
-            BuildableName = "yajl.framework"
-            BlueprintName = "yajl"
+            BuildableName = "yajl_dynamic.framework"
+            BlueprintName = "yajl-dynamic"
             ReferencedContainer = "container:yajl-dynamic.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65F8BB271F60F757004B9ED4"
-            BuildableName = "yajl.framework"
-            BlueprintName = "yajl"
+            BuildableName = "yajl_dynamic.framework"
+            BlueprintName = "yajl-dynamic"
             ReferencedContainer = "container:yajl-dynamic.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
