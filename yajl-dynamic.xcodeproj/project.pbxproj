@@ -24,7 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		65F8BB281F60F757004B9ED4 /* yajl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = yajl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		65F8BB281F60F757004B9ED4 /* yajl_dynamic.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = yajl_dynamic.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F8BB2C1F60F757004B9ED4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65F8BB331F60F8D7004B9ED4 /* yajl_parse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = yajl_parse.h; sourceTree = "<group>"; };
 		65F8BB351F60F8D7004B9ED4 /* yajl_common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = yajl_common.h; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 		65F8BB291F60F757004B9ED4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				65F8BB281F60F757004B9ED4 /* yajl.framework */,
+				65F8BB281F60F757004B9ED4 /* yajl_dynamic.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -131,9 +131,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		65F8BB271F60F757004B9ED4 /* yajl */ = {
+		65F8BB271F60F757004B9ED4 /* yajl-dynamic */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 65F8BB301F60F757004B9ED4 /* Build configuration list for PBXNativeTarget "yajl" */;
+			buildConfigurationList = 65F8BB301F60F757004B9ED4 /* Build configuration list for PBXNativeTarget "yajl-dynamic" */;
 			buildPhases = (
 				65F8BB231F60F757004B9ED4 /* Sources */,
 				65F8BB241F60F757004B9ED4 /* Frameworks */,
@@ -144,9 +144,9 @@
 			);
 			dependencies = (
 			);
-			name = yajl;
+			name = "yajl-dynamic";
 			productName = "yajl-dynamic";
-			productReference = 65F8BB281F60F757004B9ED4 /* yajl.framework */;
+			productReference = 65F8BB281F60F757004B9ED4 /* yajl_dynamic.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -176,7 +176,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				65F8BB271F60F757004B9ED4 /* yajl */,
+				65F8BB271F60F757004B9ED4 /* yajl-dynamic */,
 			);
 		};
 /* End PBXProject section */
@@ -387,7 +387,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		65F8BB301F60F757004B9ED4 /* Build configuration list for PBXNativeTarget "yajl" */ = {
+		65F8BB301F60F757004B9ED4 /* Build configuration list for PBXNativeTarget "yajl-dynamic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				65F8BB311F60F757004B9ED4 /* Debug */,
